@@ -31,3 +31,9 @@ Aquí tenemos los datos que nos proporciona el sistema tanto en Windows como en 
 | **Velocidad base** | 3,60 GHz |
 | **Número de núcleos** | 2 (con 4 procesadores lógicos/hilos) |
 | **Memoria caché L3** | 3,0 MB |
+
+ㅤ
+
+# Investigación en la Web del Fabricante
+
+Esta es la web oficial de la verificación oficial para comparar los resultados co los nuestros: https://www.intel.la/content/www/xl/es/products/sku/77488/intel-core-i34160-processor-3m-cache-3-60-ghz/specifications.html
