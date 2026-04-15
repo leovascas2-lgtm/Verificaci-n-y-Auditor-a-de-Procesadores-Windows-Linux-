@@ -47,3 +47,18 @@ Esta es la web oficial de la verificación oficial para comparar los resultados 
 | **Núcleos / Hilos** | 2 núcleos / 4 hilos | 2 núcleos / 4 hilos | Sí |
 | **Caché L3 (Smart Cache)** | 3,0 MB | 3 MB | Sí |
 | **Litografía (Tamaño)** | 22 nm | 22 nm | Sí |
+
+ㅤㅤ
+
+**Sobre la Frecuencia Boost**: El Intel i3-4160 no tiene tecnología "Intel Turbo Boost". Su frecuencia es fija a 3,60 GHz. Por eso, tanto en el Administrador de tareas como en HWiNFO64, la velocidad máxima siempre es la base.
+ㅤㅤ
+
+**Sobre la Caché L3**: El sistema reporta correctamente 3 MB de Intel® Smart Cache. Al ser un procesador de 4ª generación (Haswell) de gama de entrada, esta es la cantidad estándar diseñada por Intel. 
+
+ㅤㅤ
+
+# Benchmarking (Prueba de Rendimiento)
+
+ㅤㅤ
+
+Aquí adjunto los resultados del test de rendimiento:
