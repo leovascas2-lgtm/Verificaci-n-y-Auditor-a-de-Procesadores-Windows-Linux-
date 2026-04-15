@@ -59,6 +59,21 @@ Esta es la web oficial de la verificación oficial para comparar los resultados 
 
 # Benchmarking (Prueba de Rendimiento)
 
+Aquí adjunto los resultados del test de rendimiento:
+
 ㅤㅤ
 
-Aquí adjunto los resultados del test de rendimiento:
+<img width="628" height="628" alt="image" src="https://github.com/user-attachments/assets/347baa61-dca7-4009-9d5c-222947de3e0b" />
+
+ㅤㅤ
+
+<img width="886" height="826" alt="image" src="https://github.com/user-attachments/assets/dc68bee1-4b25-4e6e-b016-0ce1565dc6c5" />
+
+ㅤㅤ
+
+<img width="886" height="749" alt="image" src="https://github.com/user-attachments/assets/370d13a3-7b4e-4271-947f-9828f13e04ed" />
+
+ㅤㅤ
+
+**Mi puntuación en Multi-Thread es de 910.08. Al compararlo con procesadores similares en la base de datos de CPU-Z, el rendimiento es correcto para un i3-4160, por lo que se descarta cualquier estafa o modelo inferior camuflado.**
+
