@@ -77,9 +77,7 @@ Aquí adjunto los resultados del test de rendimiento:
 
 **Mi puntuación en Multi-Thread es de 910.08. Al compararlo con procesadores similares en la base de datos de CPU-Z, el rendimiento es correcto para un i3-4160, por lo que se descarta cualquier estafa o modelo inferior camuflado.**
 
-
-### Análisis Crítico y Conclusión:
-
+ㅤㅤ
 
 # Informe de Análisis Crítico y Conclusión: Caso Intel Core i3-4160
 
