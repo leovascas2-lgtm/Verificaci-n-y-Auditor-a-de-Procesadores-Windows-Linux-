@@ -37,3 +37,13 @@ Aquí tenemos los datos que nos proporciona el sistema tanto en Windows como en 
 # Investigación en la Web del Fabricante
 
 Esta es la web oficial de la verificación oficial para comparar los resultados co los nuestros: https://www.intel.la/content/www/xl/es/products/sku/77488/intel-core-i34160-processor-3m-cache-3-60-ghz/specifications.html
+
+
+| Característica | Datos de tu Sistema | Datos Oficiales Intel ARK | ¿Coincide? |
+| :--- | :--- | :--- | :--- |
+| **Modelo** | Intel Core i3-4160 | Intel Core i3-4160 | Sí |
+| **Velocidad Base** | 3,60 GHz | 3,60 GHz | Sí |
+| **Frecuencia Boost** | No aplica | No tiene (N/A) | Sí |
+| **Núcleos / Hilos** | 2 núcleos / 4 hilos | 2 núcleos / 4 hilos | Sí |
+| **Caché L3 (Smart Cache)** | 3,0 MB | 3 MB | Sí |
+| **Litografía (Tamaño)** | 22 nm | 22 nm | Sí |
