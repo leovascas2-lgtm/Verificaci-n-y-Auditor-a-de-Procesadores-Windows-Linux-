@@ -81,8 +81,7 @@ Aquí adjunto los resultados del test de rendimiento:
 
 # Informe de Análisis Crítico y Conclusión: Caso Intel Core i3-4160
 
-Tras recoger y analizar los datos de mi equipo, presento el siguiente análisis comparativo basado en la investigación del **"Caso Chuwi"** y mis propios resultados técnicos.
-
+Tras recoger y analizar los datos de mi equipo, estos son las conclusiones finales obtenidas:
 ## 1. El engaño del software vs. Mi Realidad
 En el fraude de los portátiles **Chuwi CoreBook X**, el software detectaba un procesador moderno (Ryzen 5 7430U) porque el fabricante manipuló la información de identificación en la BIOS. Sin embargo, el rendimiento real era muy inferior al prometido.
 
